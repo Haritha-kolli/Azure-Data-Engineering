@@ -1,6 +1,6 @@
 # Azure-Data-Engineering
 
-Welcome to my Data Engineering portfolio! This repository showcases my skills and projects as I work through the Azure DP-203 exercises, focusing on Azure Synapse Analytics and transforming files using serverless SQL pools.
+Welcome to my Data Engineering portfolio! This repository showcases my skills and projects on Azure ETL Tool
 
 ## ✨Skills Highlighted
 - _Azure Synapse Analytics_: Expertise in using Synapse Analytics for data integration, warehousing, and big data analytics.
